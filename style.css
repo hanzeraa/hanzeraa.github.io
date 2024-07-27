@@ -47,3 +47,11 @@ section {
   width: 100%;
   overflow: hidden;
 }
+
+.element {
+    border-bottom: none;
+}
+
+.element {
+    border-top: none;
+}
